@@ -1,3 +1,3 @@
 # CppAssignmentSolution
 
-My solution to Python for Finance course
+My solution to C++ course
